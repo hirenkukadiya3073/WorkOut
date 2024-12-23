@@ -1,4 +1,4 @@
-# **Workout App** 🏋️‍♂️
+# **WorkOut** 
 
 A sleek and user-friendly Android application designed to help users for workout colories, routines. The app displays a list of workouts and their associated exercises, allowing users to view detailed lessons and watch exercise videos on YouTube.
 
@@ -27,24 +27,17 @@ A sleek and user-friendly Android application designed to help users for workout
 
 
 2. **Workout Details Screen**  
-   ![workou deail wih lesson](https://github.com/user-attachments/assets/2afd698c-a1ec-4ba4-a60d-fd31540009a2)
+   ![workou dea](https://github.com/user-attachments/assets/10529e91-bcd6-497f-861f-d7130ec6e055)
 
 
-3. **YouTube Video Playback**  
-   https://github.com/user-attachments/assets/75bf7499-18c1-48e1-a629-3e7a7f876e60
-
+3. **YouTube Video Playback**    
+   ![lesson gif](https://github.com/user-attachments/assets/a2bc46c7-b64c-485b-b31a-34e000c65d3e)
 
 
 ---
-
-## **How to Run the App** 🚀
 
 ### Prerequisites:
 - **Android Studio**: Installed on your computer.
 - **Java Development Kit (JDK)**
 - **Internet Connection**: Required for video playback.
 
-### Steps:
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/hirenkukadiya3073/workout.git
